@@ -3,7 +3,6 @@
 #include<string>
 using namespace std;
 
-
 void main() {
 	vector<string> list;
 	for (int i = 0; i < 4; i++) {
