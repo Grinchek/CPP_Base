@@ -13,8 +13,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HederFilesByVector", "Heder
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vector_general", "Vector_general\Vector_general.vcxproj", "{0E98CEDA-F166-4B2F-9735-10282424BFE4}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cource work", "Cource work\Cource work.vcxproj", "{95E7C5EC-3540-4696-9603-658EB0F6B290}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AnimatedHello", "..\Project1\Project1\Project1.vcxproj", "{8400AAA7-DE35-4D1B-BFD8-2766217F1F8F}"
 EndProject
 Global
@@ -65,14 +63,6 @@ Global
 		{0E98CEDA-F166-4B2F-9735-10282424BFE4}.Release|x64.Build.0 = Release|x64
 		{0E98CEDA-F166-4B2F-9735-10282424BFE4}.Release|x86.ActiveCfg = Release|Win32
 		{0E98CEDA-F166-4B2F-9735-10282424BFE4}.Release|x86.Build.0 = Release|Win32
-		{95E7C5EC-3540-4696-9603-658EB0F6B290}.Debug|x64.ActiveCfg = Debug|x64
-		{95E7C5EC-3540-4696-9603-658EB0F6B290}.Debug|x64.Build.0 = Debug|x64
-		{95E7C5EC-3540-4696-9603-658EB0F6B290}.Debug|x86.ActiveCfg = Debug|Win32
-		{95E7C5EC-3540-4696-9603-658EB0F6B290}.Debug|x86.Build.0 = Debug|Win32
-		{95E7C5EC-3540-4696-9603-658EB0F6B290}.Release|x64.ActiveCfg = Release|x64
-		{95E7C5EC-3540-4696-9603-658EB0F6B290}.Release|x64.Build.0 = Release|x64
-		{95E7C5EC-3540-4696-9603-658EB0F6B290}.Release|x86.ActiveCfg = Release|Win32
-		{95E7C5EC-3540-4696-9603-658EB0F6B290}.Release|x86.Build.0 = Release|Win32
 		{8400AAA7-DE35-4D1B-BFD8-2766217F1F8F}.Debug|x64.ActiveCfg = Debug|x64
 		{8400AAA7-DE35-4D1B-BFD8-2766217F1F8F}.Debug|x64.Build.0 = Debug|x64
 		{8400AAA7-DE35-4D1B-BFD8-2766217F1F8F}.Debug|x86.ActiveCfg = Debug|Win32
