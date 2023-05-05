@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Documentation.cpp">
+    <ClCompile Include="..\..\..\Downloads\Git\Course_work\Course_work\Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

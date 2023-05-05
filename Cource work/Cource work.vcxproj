@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{0e98ceda-f166-4b2f-9735-10282424bfe4}</ProjectGuid>
-    <RootNamespace>Vectorgeneral</RootNamespace>
+    <ProjectGuid>{95e7c5ec-3540-4696-9603-658eb0f6b290}</ProjectGuid>
+    <RootNamespace>Courcework</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,8 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp" />
-    <ClCompile Include="Documentation.cpp" />
+    <ClCompile Include="..\..\..\Downloads\Git\Course_work\Course_work\Source.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

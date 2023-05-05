@@ -14,7 +14,6 @@ void main() {
 	for (auto varible : list) {
 		cout << varible << endl;
 	}
-	cout<<"=========================================="<< endl;
 	for (int i = 0; i < 4; i++) {
 		string temp ;
 		for (int j = 0; j < 4; j++) {
@@ -25,6 +24,7 @@ void main() {
 			}
 		}
 	}
+	cout << "==========================================" << endl;
 	for (auto variable : list) {
 		cout <<variable << endl;
 	}
